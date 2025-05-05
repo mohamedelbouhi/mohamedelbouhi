@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mohamed El-Bouhi!
+# 👋 Greetings, I'm Mohamed El-Bouhi!
 
 🎓 I'm a Junior Back-End Developer who loves working with databases, APIs, and server-side logic.
 
