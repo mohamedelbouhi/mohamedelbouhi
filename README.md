@@ -22,21 +22,3 @@ _____________________________________________________
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-
-
- I mainly work with:
-- **Languages**: PHP, JavaScript, Python
-- **Frameworks**: Laravel, Express.js, Django
-- **Databases**: MySQL, MongoDB
-- **Tools**: Git, Postman, Docker, VS Code
-
-🚀 I'm currently learning:
-- Docker 🐳
-- Redis 🔴
-- System Design 📐
-
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mohamed-el-bouhi-34047127a)
-
----
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
