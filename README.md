@@ -2,6 +2,14 @@
 
 Junior Back-End Developer PHP / LARAVEL.
 
+_____________________________________________________
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-bouhi-34047127a)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedelbouhi77@gmail.com)
+
+
 💼 I mainly work with:
 - **Languages**: PHP, JavaScript, Python
 - **Frameworks**: Laravel, Express.js, Django
