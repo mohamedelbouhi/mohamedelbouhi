@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Mohamed El-Bouhi!
 
-<!--
-**mohamedelbouhi/mohamedelbouhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Junior Back-End Developer who loves working with databases, APIs, and server-side logic.
 
-Here are some ideas to get you started:
+💼 I mainly work with:
+- **Languages**: PHP, JavaScript, Python
+- **Frameworks**: Laravel, Express.js, Django
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, Postman, Docker, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm currently learning:
+- Docker 🐳
+- Redis 🔴
+- System Design 📐
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mohamed-el-bouhi-34047127a)
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
